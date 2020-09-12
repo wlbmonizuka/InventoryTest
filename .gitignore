@@ -1,1 +1,12 @@
-﻿
+﻿/InventoryTest/.vs
+/InventoryTest/Library
+/InventoryTest/Logs
+/InventoryTest/obj/Debug
+/InventoryTest/Temp
+/InventoryTest/*.csproj
+/InventoryTest/*.sln
+
+# ignore Folders and Model meta
+/InventoryTest/Assets/**/*.meta
+!/InventoryTest/Assets/**/*.*.meta
+/InventoryTest/Assets/Model/**/*.*.meta
